@@ -10,8 +10,8 @@ Instruction Prompts:
 2. Using Python and appropriate data visualization libraries, create at least two different visualizations for each variable in the dataset selected in Prompt 1 above. Your visualizations should include at least one bar chart, one line chart, one scatter plot, and one histogram.
 3. Evaluate the effectiveness of your visualizations and identify at least two areas for improvement based on principles of chart design (e.g., clarity, simplicity, consistency).
 4. Using your improved visualizations, create a final report that communicates data insights to a specific audience. The report should include appropriate language and visual cues for the intended audience.
-Requirements:
 
+Requirements:
 Jupyter notebook containing all Python code used in the tasks.
 Include written responses to each task prompt, using markdown cells in the same Jupyter notebook.
 Include visual aids to support your answers.
