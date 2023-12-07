@@ -1,6 +1,8 @@
 # DSC510-Data-Visualization-and-Charts
  An assignment for DSC510 at GCU that focused on creating charts and evaluating their effectiveness at communicating insights for a real-world dataset.
 
+I recorded a video going over my findings, check it out [here.](https://youtu.be/4H4u5JtewKI)
+
 # Assignment Instructions
 In this assignment, you will create effective data visualizations for a given dataset using Python libraries like Matplotlib, Seaborn, or Plotly. You will apply principles of chart design to evaluate and improve the effectiveness of data visualizations, and communicate data insights to a specific audience using appropriate language and visual cues.
 
